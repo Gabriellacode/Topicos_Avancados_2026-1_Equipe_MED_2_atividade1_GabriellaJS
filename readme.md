@@ -132,7 +132,7 @@ Esse script roda:
 
 ## 🚀 Execução principal
 
-Cuidado! Ao rodar a execução principal os resultados e metricas obtidas anteriormente serão perdidos
+Cuidado! Ao rodar a execução principal os resultados e metricas obtidas anteriormente serão perdidas
 
 ```bash
 python main.py
