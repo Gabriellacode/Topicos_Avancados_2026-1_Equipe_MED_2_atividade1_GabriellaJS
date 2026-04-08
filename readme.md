@@ -8,7 +8,7 @@ Este projeto foi desenvolvido utilizando:
 Python 3.10.2
 ```
 
-> Recomenda-se usar essa versão para evitar incompatibilidades.
+Recomenda-se usar essa versão para evitar incompatibilidades.
 
 ---
 
@@ -20,32 +20,6 @@ Execute:
 
 ```bash
 pip install -r requirements.txt
-```
-
----
-
-## 🧪 Ambiente virtual (opcional)
-
-O uso de `venv` **não é obrigatório**, mas é recomendado para evitar conflitos com outras bibliotecas do sistema.
-
-Se quiser usar:
-
-```bash
-python -m venv venv
-```
-
-Ativar:
-
-* Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-* Linux/Mac:
-
-```bash
-source venv/bin/activate
 ```
 
 ---
