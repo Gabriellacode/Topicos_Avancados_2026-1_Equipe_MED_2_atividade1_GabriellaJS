@@ -1,0 +1,121 @@
+[
+  {
+    "question": "Benadryl makes me super sleepy can I take like Claritin during the day?",
+    "reference_answer": "Diphenhydramine (Benadryl) and Loratadine (Claritin) are antihistamines used to treat allergic symptoms of the upper respiratory tract, the eye, and the skin. Diphenhydramine (Benadryl) is a first generation antihistamine and frequently causes sedation, while loratadine (Claritin) is a second generation antihistamine and is less likely to cause sedation. Second-generation antihistamines also cause fewer cognitive side effects (such as reduced attention span or working memory). Hence, loratadine (Claritin) or other second-generation antihistamines such as cetirizine (Zytrec) or fexofenadine (Allegra allergy) could be a suitable replacement for diphenhydramine (Benadryl) during daytime. ",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "But is testicular pain not a symptom of chlamydia?",
+    "reference_answer": "Chlamydia can be asymptomatic or present with symptoms in the genitourinary system, anus, throat, or eye.\nOne clinical presentation of chlamydia which could cause testicular pain is epididymitis. Epididymitis is the inflammation of the epididymis, which is a tube positioned over the testicle and transfers sperm from the testicle to the vas deferens. Acute epididymitis usually presents with pain, tenderness, and palpable swelling in one testicle. \nOther causes of testicular pain include epididymitis due to other pathogens, noninfectious epididymitis, testicular trauma, testicular torsion, infection of the fasciitis (soft tissue) involving the scrotum, testicular hernia, mumps infection, or referred pain. In any case \u2013 acute testicular pain should not be ignored and should be evaluated by a physician.\n\n",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "But what is colchicine",
+    "reference_answer": "Colchicine (Colcrys, Gloperba, Mitigare, and Myinfla) is an anti-inflammatory drug used to treat many inflammatory conditions including Gout, Pericarditis, Behcet's disease, and Familial Mediterranean Fever. Although its mechanism of action is still being studied, it has been shown to impair multiple proinflammatory processes, such as neutrophil recruitment, and decrease levels of proinflammatory cytokines.\n\n",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can Clindamyam be used to treat a UTI",
+    "reference_answer": "Clindamycin (Cleocin, Clinacin, Dalacin) is not the standard treatment for a urinary tract infection. This drug should only be considered in those with multiple allergies to the standard treatment.\nAntibiotics commonly used to treat urinary tract infections include Trimethoprim/sulfamethoxazole (Bactrim, Septra), Nitrofurantoin (Macrobid, Macrodantin), Ciprofloxacin (Cipro), and Fosfomycin (Monurol).\n",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can I take Zyrtec and benedryl at the same time?",
+    "reference_answer": "Cetirizine (Zyrtec) and diphenhydramine (Benedryl) are both antihistamine medications and taking both together may increase the risk of side effects such as drowsiness, dizziness, and impaired coordination.\nIt is possible to overdose on antihistamines.\nAntihistamine overdose includes symptoms such as drowsiness, dry mouth and eyes, blurred vision, urinary retention, rapid heartbeat, flushing, and gastrointestinal symptoms. Severe antihistamine overdose can lead to seizures, hallucinations, delirium, and respiratory or cardiovascular distress.\nSeek immediate medical attention in case of suspicion of an antihistamine overdose.",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can I take anything with the antibiotic like pepto bismol or Tylenol as needed?",
+    "reference_answer": "It is generally safe to take most antibiotics with Tylenol (acetaminophen) except when taken with the antibiotic isoniazid (Nydrazid). Isoniazid can increase the activity of liver enzymes, which results in Tylenol being converted to toxic metabolites, thus increasing the risk of liver damage. As for Pepto-Bismol (bismuth subsalicylate), it can inhibit the absorption of tetracycline antibiotics from the digestive system. It is therefore recommended to take the two medications 2-3 hours apart from each other.",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can I take nyquil and benedryl at the same time?",
+    "reference_answer": "Doxylamine (an ingredient in NyQuil) and Diphenhydramine (Benadryl) are antihistamine medications. Taking both together may increase the risk of side effects such as drowsiness, dizziness, and impaired coordination.\nAlso, it is possible to overdose on antihistamines.\nAntihistamine overdose includes symptoms such as drowsiness, dry mouth and eyes, blurred vision, urinary retention, rapid heartbeat, flushing, and gastrointestinal symptoms. Severe antihistamine overdose can lead to seizures, hallucinations, delirium, and respiratory or cardiovascular distress.\nSeek immediate medical attention in case of suspicion of an antihistamine overdose.\n",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can a nausea prescription be taken at the same time as Dramamine?",
+    "reference_answer": "Dimenhydrinate is an over-the-counter medication used to treat motion sickness and nausea. Some nausea medications, such as Bismuth subsalicylate (Pepto-Bismol) and Ondansetron (Zofran), are safe to use in combination with Dimenhydrinate, while others like Prochlorperazine (Compazine) and Metoclopramide (Reglan) may have unwanted interactions.\n\n",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can diabetics eat sweets?\n",
+    "reference_answer": "Yes, diabetics can eat sweets in moderation when they are part of a healthy, balanced diet. Sweets contain sugar which is a type of carbohydrate. Diabetics need to be aware of the total carbohydrates consumed with each meal, as carbohydrates can raise blood sugar levels. Counting the carbohydrates in every meal can help manage blood sugar levels and match insulin dosage to carbohydrate intake. A dietician can help patients manage diabetes by giving specialist guidance on carbohydrate counting, meal planning, and meal timing.",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can i take the painkiller and the antibiotics at the same time or wait hours in between ?",
+    "reference_answer": "If your healthcare provider prescribes both antibiotics and painkillers, it is generally safe to take them together. However, some antibiotics should not be combined with painkillers due to potential drug interactions. It is best to consult your healthcare provider about the possibility and proper timing of combining those drugs.",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can sinus infections cause neck pain and neck vein distention?",
+    "reference_answer": "Sinus infections are not associated with neck pain or neck vein distention. The typical pain associated with sinus infections is facial, cheek, upper back teeth, and ear pain, due to the location of the sinuses in the skull around the eyes, nose, and cheeks. Neck vein distention refers to the visible bulging of the jugular vein in the neck. Continuous jugular vein distention can be a sign of serious heart or circulatory issues, including heart failure, heart valve diseases, and pulmonary hypertension. If you think you have jugular vein distention, you should contact your healthcare provider.",
+    "area": "infectious_disease",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can you provide a short term solution that is designed for insomnia?",
+    "reference_answer": "Insomnia is a common condition that affects the ability to fall and stay asleep. Factors such as stress, noise, uncomfortable sleeping conditions, alcohol, caffeine, and medication side effects can contribute to insomnia. Eliminating the underlying cause can be helpful, and short-term pharmacological options are available. Short-term pharmacological options are Benzodiazepines such as Estazolam (ProSom), Flurazepam (Dalmane), Temazepam (Restoril), or other drugs such as eszopiclone (Lunesta), zaleplon (Sonata), and zolpidem (Ambien) .However, insomnia should not be treated with medication alone, and long-term use should be approved by a doctor. If changing sleeping habits doesn't work, or if insomnia is affecting daily life, it is advisable to see a doctor.",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can you suggest something in addition that is natural that could help with anxiety?",
+    "reference_answer": "Natural treatment options for anxiety include lifestyle changes, anxiety-reducing activities, and herbal remedies. Psychotherapy is also important in long-term treatment for anxiety. Lifestyle changes may include quitting smoking and alcohol. Activities like exercise, meditation, and deep breathing can help alleviate anxiety. Although herbal remedies like kava kava, valerian root, passion flower, lavender, chamomile, and lemon balm might help, they are not FDA-approved for anxiety and can have side effects and interact with other drugs, so consulting a healthcare provider is important.",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Can't you recommend me an antibiotic for sinusitis?",
+    "reference_answer": "An acute sinus infection, also known as sinusitis, is usually self limited and do not require treatment with antibiotics. Treatment for sinus infections focuses on relieving symptoms. Possible treatments include oral pain relievers such as Ibuprofen (Advil, Motrin) and Acetaminophen (Tylenol), oral decongestants such as Pseudoephedrine (Sudafed), and intranasal saline sprays, Oxymetazoline (Afrin), Fluticasone propionate (Flonase), and others. If symptoms persist after several days and do not respond to the suggested treatment, it may indicate a bacterial sinus infection and require treatment with antibiotics. Amoxicillin (Amoxil) or Amoxicillin/clavulanate (Augmentin) are common antibiotic treatments for sinus infections. Seek medical attention if you experience: - Severe symptoms, such as severe headache or facial pain - Symptoms that worsen after improving - Symptoms that last more than 7 days without improvement - Fever for more than 3 days.",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Corticosteroid is the same as clobetasol?",
+    "reference_answer": "Corticosteroids are drugs that are similar to cortisol, a hormone produced by the adrenal glands. Clobetasol is a highly potent corticosteroid used topically to treat skin problems like psoriasis and eczema. It is available only with a prescription and can be found in several formulations including cream, ointment, shampoo, spray, and lotion. However, prolonged use of clobetasol cream can lead to skin thinning, dryness, and discomfort, so it is recommended to use it for only two consecutive weeks.",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Could diabetes be so fast and onset?",
+    "reference_answer": "Diabetes mellitus (DM) is a disease that affects the body's ability to use blood sugar for energy. It is divided into two main types: type 1, which typically starts in childhood and is caused by the body's immune system attacking the pancreas, and type 2, which usually starts in adulthood and is caused by a combination of genetic and lifestyle factors. The onset of the symptoms of type 1 DM such as weight loss, higher urination quantity and frequency, excessive thirst, fatigue, and others, can be very quick and appear over weeks or even days. Less commonly, a medical emergency called diabetic ketoacidosis can develop over hours with symptoms such as nausea and vomiting, abdominal pain, rapid breathing, and feeling very ill. Diabetes mellitus type 2 usually progresses over years, and the majority of patients are asymptomatic at presentation. In rare cases, patients with type 2 diabetes mellitus present for the first time with a medical emergency that can develop over hours or days with symptoms of severe dehydration, and possibly a change in mental status.",
+    "area": "endocrinology",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "Could esophagitis could like muscle stiffness in the neck when swallowing?",
+    "reference_answer": "Esophagitis is inflammation of the esophagus caused by various factors including gastroesophageal reflux disease (GERD), infections, or medications. Symptoms may include swallowing difficulties, pain while swallowing, retrosternal chest pain, heartburn, regurgitation, chronic cough, and nausea. Neck muscle stiffness while swallowing is not commonly associated with esophagitis. Please seek medical attention if you have neck muscle stiffness while swallowing in order to evaluate the cause and provide you with the correct treatment.",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  }
+]

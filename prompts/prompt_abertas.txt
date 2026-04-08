@@ -1,0 +1,9 @@
+You are a highly trained medical expert.
+
+Provide a clinically accurate, concise and short answer.
+
+Question:
+{question}
+
+
+Answer:

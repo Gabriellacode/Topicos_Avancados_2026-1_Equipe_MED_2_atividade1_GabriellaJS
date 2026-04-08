@@ -1,0 +1,66 @@
+[
+  {
+    "question": "(MC-NJ) - Step 1\nA 65-year-old woman comes to the physician for a follow-up examination\nafter blood pressure measurements were\n175/105 mm Hg and 185/110 mm Hg 1 and 3 weeks ago, respectively. She\nhas well-controlled type 2 diabetes\nmellitus. Her blood pressure now is 175/110 mm Hg. Physical examination\nshows no other abnormalities.\nAntihypertensive therapy is started, but her blood pressure remains\nelevated at her next visit 3 weeks later. Laboratory\nstudies show increased plasma renin activity; the erythrocyte\nsedimentation rate and serum electrolytes are within the\nreference ranges. Angiography shows a high-grade stenosis of the proximal\nright renal artery; the left renal artery\nappears normal. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Atherosclerosis",
+      "B": "Congenital renal artery hypoplasia",
+      "C": "Fibromuscular dysplasia",
+      "D": "Takayasu arteritis",
+      "E": "Temporal arteritis"
+    },
+    "answer": "A",
+    "explanation": "Atherosclerosis.\nAtherosclerotic renovascular disease is the most likely cause given the patient\u2019s\nage, cardiovascular risk (type 2 diabetes), high-grade proximal renal artery\nstenosis, resistant hypertension with elevated renin, and normal ESR. In older\nadults, atherosclerosis is the predominant etiology of renal artery stenosis and\ntypically involves ostial/proximal segments of the main renal artery, often\nunilaterally, and presents with renovascular hypertension that is renin mediated.\n[1][2][3][4][5] The American College of Cardiology/American Heart Association\nguideline emphasizes renovascular disease as a key cause of secondary\nhypertension in resistant cases, with atherosclerosis most common in this\ndemographic; the American Heart Association scientific statement underscores\nthat atherosclerotic renovascular disease predominates in patients >65 years and\naffects large proximal renal arteries.[1][2] Epidemiologic series demonstrate\natherosclerosis as the leading cause of renal artery stenosis in patients >40\nyears.[4] Fibromuscular dysplasia typically affects younger women, involves\ndistal/branch segments, and often shows a string-of-beads pattern rather than\nisolated proximal stenosis.[2][6][7] Large-vessel vasculitides (Takayasu, temporal\narteritis) are far less likely at age 65 and usually feature elevated inflammatory\nmarkers; normal ESR here argues against them.[4][7][8] Congenital hypoplasia is\nuncommon and would not preferentially present with new-onset resistant\nhypertension at this age.\nTherefore, the best answer is A. Atherosclerosis.[1][2][3][4][5]",
+    "references": [
+      "doi:10.1016/",
+      "11.006.",
+      "Revascularization for Renovascular Disease: A Scientific Statement From",
+      "doi:10.1161/",
+      "Renovascular Hypertension. Herrmann SM, Textor SC.. Endocrinology and",
+      "doi:10.1016/",
+      "08.007.",
+      "doi:10.1038/jhh.2015.40.",
+      "Fibromuscular Dysplasia: State of the Science and Critical Unanswered",
+      "doi:10.1161/01.cir.0000442577.96802.8c.",
+      "doi:10.1016/j.berh.2018.07.005.",
+      "doi:10.1161/",
+      "17004.",
+      "3. ",
+      "5. ",
+      "7. ",
+      ""
+    ],
+    "area": "general_medicine",
+    "difficulty": "hard",
+    "reference": "UpToDate"
+  },
+  {
+    "question": "(MC-NJ) - Step 2\nA 23-year-old man who is on active duty in the US Army comes to the clinic\n1 hour after sustaining a bee sting to\nhis right cheek. The patient reports continued pain at the site of the sting,\nbut he has not had shortness of breath,\nthroat tightness, loss of vision, or other neurologic symptoms. Medical\nhistory is unremarkable. He takes no\nmedications. The patient has no known allergies. He is 178 cm (5 ft 10 in) tall\nand weighs 64 kg (140 lb); BMI is 20\nkg/m\u00b2. Temperature is 37.0\u00b0C (98.6\u00b0F), pulse is 86/min, respirations are 10/\nmin, and blood pressure is\n120/70 mm Hg. Examination of the right cheek shows an erythematous,\nswollen area of induration surrounding a\ncentral clear area with the stinger in situ. The swelling encroaches on the\nlower aspect of the patient's right orbit,\nwhich appears puffy and mildly dusky. After the stinger is removed, which\nof the following is the most appropriate\nnext step in management?",
+    "options": {
+      "A": "Administer an injection of epinephrine",
+      "B": "Admit the patient to the hospital for intravenous vancomycin therapy",
+      "C": "Cleanse the site and apply ice",
+      "D": "Obtain an ophthalmologist consultation",
+      "E": "Prescribe oral clindamycin"
+    },
+    "answer": "C",
+    "explanation": "Cleanse the site and apply ice\nThis presentation is consistent with a large local reaction to a Hymenoptera\nsting without systemic manifestations or ocular injury. After prompt stinger\nremoval, symptomatic care is recommended: cleanse the site, apply cold/ice to\nreduce pain and edema, and consider oral analgesics; oral antihistamines may\nhelp pruritus if present.[1][2] The American Heart Association/American Red\nCross First Aid Guidelines support topical ice/cold packs for pain and swelling\nafter bee/wasp stings, emphasizing rapid stinger removal to limit venom\ndelivery.[1] The American Academy of Allergy, Asthma, and Immunology practice\nparameter advises cold compresses and symptomatic therapy for large local\nreactions; routine antibiotics are not indicated unless clear evidence of\nsecondary infection exists, as swelling/lymphangitis can be mediator-driven.[2]\nReviews similarly caution against unnecessary antibiotics or epinephrine in\nisolated large local reactions.[3]\nEpinephrine is reserved for anaphylaxis, which is not present. [1][2]\nHospital admission/IV vancomycin or oral clindamycin are inappropriate\nwithout clinical cellulitis or systemic illness. [2][4]\nOphthalmology consultation is warranted for direct ocular involvement\n(corneal sting, vision changes, severe ocular findings), not simple periorbital\nextension of local edema from a facial sting.[1][5][6][7]",
+    "references": [
+      "0\u00b0C (98.6\u00b0F), pulse is 86/min, respirations are 10/",
+      "doi:10.1161/CIR.0000000000001281.",
+      "Stinging Insect Hypersensitivity: A Practice Parameter Update 2016.",
+      "doi:10.1016/j.anai.2016.10.031.",
+      "doi:10.1097/ACI.0000000000000289.",
+      "doi:10.1001/jama.2016.8825.",
+      "doi:10.4103/0301-4738.128637.",
+      "doi:10.1001/jamaophthalmol.2020.4877.",
+      "doi:10.4103/",
+      "2. ",
+      "4. ",
+      "6. ",
+      ""
+    ],
+    "area": "general_medicine",
+    "difficulty": "hard",
+    "reference": "UpToDate"
+  }
+]

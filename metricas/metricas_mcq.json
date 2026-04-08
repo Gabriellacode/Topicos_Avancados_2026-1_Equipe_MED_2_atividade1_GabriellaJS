@@ -1,0 +1,20 @@
+[
+  {
+    "modelo": "llama",
+    "acertos": 17,
+    "total": 68,
+    "acuracia": 25.0
+  },
+  {
+    "modelo": "qwen",
+    "acertos": 66,
+    "total": 68,
+    "acuracia": 97.0588
+  },
+  {
+    "modelo": "deep",
+    "acertos": 59,
+    "total": 68,
+    "acuracia": 86.7647
+  }
+]

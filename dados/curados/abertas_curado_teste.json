@@ -1,0 +1,16 @@
+[
+  {
+    "question": "Benadryl makes me super sleepy can I take like Claritin during the day?",
+    "reference_answer": "Diphenhydramine (Benadryl) and Loratadine (Claritin) are antihistamines used to treat allergic symptoms of the upper respiratory tract, the eye, and the skin. Diphenhydramine (Benadryl) is a first generation antihistamine and frequently causes sedation, while loratadine (Claritin) is a second generation antihistamine and is less likely to cause sedation. Second-generation antihistamines also cause fewer cognitive side effects (such as reduced attention span or working memory). Hence, loratadine (Claritin) or other second-generation antihistamines such as cetirizine (Zytrec) or fexofenadine (Allegra allergy) could be a suitable replacement for diphenhydramine (Benadryl) during daytime. ",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  },
+  {
+    "question": "But is testicular pain not a symptom of chlamydia?",
+    "reference_answer": "Chlamydia can be asymptomatic or present with symptoms in the genitourinary system, anus, throat, or eye.\nOne clinical presentation of chlamydia which could cause testicular pain is epididymitis. Epididymitis is the inflammation of the epididymis, which is a tube positioned over the testicle and transfers sperm from the testicle to the vas deferens. Acute epididymitis usually presents with pain, tenderness, and palpable swelling in one testicle. \nOther causes of testicular pain include epididymitis due to other pathogens, noninfectious epididymitis, testicular trauma, testicular torsion, infection of the fasciitis (soft tissue) involving the scrotum, testicular hernia, mumps infection, or referred pain. In any case \u2013 acute testicular pain should not be ignored and should be evaluated by a physician.\n\n",
+    "area": "general_medicine",
+    "difficulty": "easy",
+    "reference": "PubMed review"
+  }
+]

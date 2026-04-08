@@ -1,0 +1,13 @@
+You need to evaluate.
+
+Carefully read the question and all answer options.
+
+Answer ONLY with the letter of the correct alternative (A, B, C, D, or E). Do not explain.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Return ONLY one letter (A, B, C, D, E)
